@@ -16,10 +16,6 @@ body * {
 	font-weight: bold;
 	color: #fff;
 }
-.dropdown.menu .has-submenu.is-down-arrow>a::after {
-	border-color: #fff transparent transparent;
-}
-
 input[type=text], input[type=search] {
 	background: #ecf0f1;
 	border: 0;
